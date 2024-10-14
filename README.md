@@ -1,4 +1,4 @@
 # 🔥 Archaic Lier 🔥
 
 ### 📚 Books I'm reading
-- [ ] Grokking Deep Learning
+- [ ] Andrew W. Trask - Grokking Deep Learning
